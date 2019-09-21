@@ -1,0 +1,23 @@
+for x in range(6):
+    print(x)
+
+
+for x in range(2,6):
+    print(x)
+
+
+
+for z in range(5, 38, 3):
+    print(z)
+
+for x in range(6):
+    print(x)
+else:
+    print("finally")
+
+adg = ["red", "big", "tasty"]
+fruits = ["apple"," banana", "cherray"]
+
+for x in adg:
+    for y in fruits:
+        print(x, y)
